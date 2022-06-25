@@ -32,9 +32,7 @@ function flippingMatrix(matrix) {
     let sm = Math.floor(matrix.length / 2);
     // total accumulator equals 0
     let total = 0;
-    // loop through matrix 1-2
     for (let i = 0; i < sm; i++) {
-        // loop through the index 0-1 for each matrix
         for (let j = 0; j < sm; j++) {
             // to the total, add the total of the
             total += Math.max(
