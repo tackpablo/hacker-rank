@@ -1,5 +1,5 @@
 /////////////////////////
-// https://www.hackerrank.com/test/4nahpm20m33/questions
+// https://www.hackerrank.com/challenges/flipping-the-matrix/problem#:~:text=Sean%20invented%20a%20game%20involving,left%20quadrant%20of%20the%20matrix.
 /////////////////////////
 
 // Sean invented a game involving a 2n x 2n matrix where each cell of the matrix contains an integer. He can reverse any of its rows or columns any number of times. The goal of the game is to maximize the sum of the elements in the n  x n submatrix located in the upper-left quadrant of the matrix.
